@@ -1,0 +1,13 @@
+{
+  "detected_base_package": "com.example.demo",
+  "build_file": "/mnt/data/webflux_src/demo/build.gradle",
+  "settings_file": "/mnt/data/webflux_src/demo/settings.gradle",
+  "main_java_roots": [
+    "/mnt/data/webflux_src/demo/src/main/java",
+    "/mnt/data/webflux_src/__MACOSX/demo/src/main/java"
+  ],
+  "test_java_roots": [
+    "/mnt/data/webflux_src/demo/src/test/java",
+    "/mnt/data/webflux_src/__MACOSX/demo/src/test/java"
+  ]
+}
