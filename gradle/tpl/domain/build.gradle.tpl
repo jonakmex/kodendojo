@@ -3,7 +3,7 @@ plugins {
 }
 
 group = '__PACKAGE__'
-version = '0.1.0'
+version = '0.1.0-SNAPSHOT'
 
 repositories { mavenCentral() }
 
